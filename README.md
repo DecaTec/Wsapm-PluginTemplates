@@ -1,4 +1,4 @@
-## ⚠️ Archived, moved to Codeberg: https://codeberg.org/DecaTec/Wsapm-PluginTemplates ⚠️
+### ⚠️ Archived, moved to Codeberg: https://codeberg.org/DecaTec/Wsapm-PluginTemplates ⚠️
 
 Thus, this GitHub repository is **outdated** and **not longer maintained on GitHub**. Please update your references.
 
