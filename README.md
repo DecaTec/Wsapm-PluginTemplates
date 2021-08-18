@@ -1,4 +1,6 @@
-**Archived, moved to Codeberg: https://codeberg.org/DecaTec/Wsapm-PluginTemplates**
+## ⚠️ Archived, moved to Codeberg: https://codeberg.org/DecaTec/Wsapm-PluginTemplates ⚠️
+
+Thus, this GitHub repository is **outdated** and **not longer maintained on GitHub**. Please update your references.
 
 # Plugin templates for Windows Server Advanced Power Management
 [Windows Server Advanced Power Management (WSAPM)](https://github.com/DecaTec/Wsapm) is an application for advanced power management on Windows (home) servers.
